@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T11:38:31.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="14.9.6" etag="uJlb36g5WMs2RJHgJnMf" type="github"><diagram id="ueHWuMlBntxPt4PXoUES">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-09T11:44:28.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7rheHAAcg5d3KK-ZFB-E" version="14.9.6" type="github">
+  <diagram id="ueHWuMlBntxPt4PXoUES" name="Page-1">
+    <mxGraphModel dx="984" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-1" value="进房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-9" target="hIVKxcEngxZ0RGTXcFYE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-19" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-9" target="hIVKxcEngxZ0RGTXcFYE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-9" value="自己有火箭" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-10" target="hIVKxcEngxZ0RGTXcFYE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-10" value="倒计时小于5分钟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-12" target="hIVKxcEngxZ0RGTXcFYE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-12" value="闪烁" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-14" target="hIVKxcEngxZ0RGTXcFYE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-14" value="小于三分钟" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="54" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-16" value="显示跑马灯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-21" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-18" target="hIVKxcEngxZ0RGTXcFYE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-23" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-18" target="hIVKxcEngxZ0RGTXcFYE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-18" value="跑马灯倒计时不为0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-20" target="hIVKxcEngxZ0RGTXcFYE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-20" value="显示跑马灯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-22" value="隐藏火箭入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-25" target="hIVKxcEngxZ0RGTXcFYE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-25" value="开启倒计时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-27" target="hIVKxcEngxZ0RGTXcFYE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-27" value="结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-29" value="隐藏跑马灯和火箭入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-31" value="火箭发射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hIVKxcEngxZ0RGTXcFYE-33" target="hIVKxcEngxZ0RGTXcFYE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-35" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hIVKxcEngxZ0RGTXcFYE-34">
+          <mxGeometry x="-0.381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hIVKxcEngxZ0RGTXcFYE-33" value="跑马灯的uid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
