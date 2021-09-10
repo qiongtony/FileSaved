@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T02:00:29.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="J_Pw2zXZk9lNXgAUzWZA" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T06:56:49.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="kyKzz0wEW1smAulVJGRN" version="15.1.2" type="github">
   <diagram id="ueHWuMlBntxPt4PXoUES" name="Page-1">
     <mxGraphModel dx="984" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,72 @@
         </mxCell>
         <mxCell id="_CeDFagytOffiSpbXhyI-1" value="跑马灯开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-3" target="_CeDFagytOffiSpbXhyI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-3" value="发射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-4" value="更新数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-7" value="更新跑马灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-9" value="显示全屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-10" target="_CeDFagytOffiSpbXhyI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-10" value="获得" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-12" value="更新火箭数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_CeDFagytOffiSpbXhyI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-15" value="自己" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-17" value="更新本地roomRocketInfo的信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-19" value="更新跑马灯的rocketId和时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_CeDFagytOffiSpbXhyI-21" value="根据的自己的rocketInfo，更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
